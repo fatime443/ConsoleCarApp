@@ -1,0 +1,7 @@
+C:\Users\fatime\source\repos\second-lesson\second-lesson\obj\Debug\second-lesson.csprojAssemblyReference.cache
+C:\Users\fatime\source\repos\second-lesson\second-lesson\obj\Debug\second-lesson.csproj.CoreCompileInputs.cache
+C:\Users\fatime\source\repos\second-lesson\second-lesson\bin\Debug\second-lesson.exe.config
+C:\Users\fatime\source\repos\second-lesson\second-lesson\bin\Debug\second-lesson.exe
+C:\Users\fatime\source\repos\second-lesson\second-lesson\bin\Debug\second-lesson.pdb
+C:\Users\fatime\source\repos\second-lesson\second-lesson\obj\Debug\second-lesson.exe
+C:\Users\fatime\source\repos\second-lesson\second-lesson\obj\Debug\second-lesson.pdb
